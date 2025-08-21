@@ -1,2 +1,2 @@
-![Banner](https://github.com/lopesluciano/lopesluciano/blob/main/club%20penguin.jpg)
+![Banner](https://github.com/lopesluciano/lopesluciano/blob/main/tux.png)
 
